@@ -8,6 +8,7 @@ Following Vulkan Tutorial!
 | <kbd>A</kbd>        | Move left              |
 | <kbd>S</kbd>        | Move down              |
 | <kbd>D</kbd>        | Move right             |
+| <kbd>ESCAPE</kbd>   | (debug) Close window   |
 
 ## Quick Start
 
